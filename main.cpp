@@ -1,3 +1,13 @@
+#include <iostream>
+
+#include "classes/creature/dragon.hpp"
+#include "classes/creature/goblin.hpp"
+#include "classes/creature/troll.hpp"
+
+#include "classes/hero/archer.hpp"
+#include "classes/hero/guerrier.hpp"
+#include "classes/hero/mage.hpp"
+
 int main()
 {
 
